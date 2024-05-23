@@ -1,5 +1,4 @@
-- 👋 Hi, I’m pooja tiwari
-- <br>
+- 👋 Hi, I’m pooja tiwari<br>
 - 👀 I’m interested in multiple outdoor games and coding
 - <br>
 - 🌱 I’m currently learning GIT
